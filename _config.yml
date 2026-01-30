@@ -23,7 +23,7 @@ repository               : "natekulp28/natekulp28.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my face.jpg"
   name             : "Nate Kulp"
   pronouns         : # example: "she/her"  
   bio              : "Currently a sophomore at Virginia Tech pursuing a computer engineering degree."
